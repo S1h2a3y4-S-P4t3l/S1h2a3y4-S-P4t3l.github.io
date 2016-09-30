@@ -21,6 +21,11 @@ body {
     background-color: lightblue;
 }
 
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
 table, th, td {
    border: 1px solid black;
 }
