@@ -1,5 +1,5 @@
 ---
-title: Blog postn lesson 5 - Akshay Patel
+title: Blog posts lesson 5 - Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-postn-lesson-5---akshay-patel/
@@ -21,12 +21,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully create the infrastructure so that my Google Doc template would publish.</td>
+    <td>To successfully upload my sheets and a Youtube video on my blog page</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I think so, as I followed all the instructions and seem to have done everything in the correct order.</td>
+    <td>I do, I added a Youtube Video and upload my sheets document.</td>
   </tr>
 </table>
 
@@ -39,22 +39,20 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mainly by focused listening and watching a demonstration.</td>
+    <td>I mainly focused and watched a demonstration from my teacher. I looked on W3schools and got all the coding from there and copied it into my code changing into to my sheets and youtube link.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The first set of instructions went well, although I managed to get confused when the program showed up a slightly different version of the information and I got distracted by menus that weren't relevant.  
-
-This made me change my ways and I decided to take quick notes (on paper) so that I could remember the instructions in the correct order next time.  This strategy helped me a lot, and the next process went really smoothly.</td>
+    <td>When google sheets wasn't responding and i had to shut the computer down and restart the computer again. I didn't know how to put youtube videos on my blog page and i spent half an hour to put it up</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Always be ready to make notes so that I don’t forget, and I can work better independently when things go a bit wrong...</td>
+    <td>I will look up how to do some stuff i need to do not trying to sort it out and ruin it</td>
   </tr>
 </table>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4A7SZpR4aMk" frameborder="0" allowfullscreen></iframe>
+
