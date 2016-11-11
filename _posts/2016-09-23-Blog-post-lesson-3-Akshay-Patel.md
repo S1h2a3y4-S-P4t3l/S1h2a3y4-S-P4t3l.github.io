@@ -1,5 +1,5 @@
 ---
-title: Blog post lesson 3 Akshay Patel
+title: Refining my website - Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-3-akshay-patel/
