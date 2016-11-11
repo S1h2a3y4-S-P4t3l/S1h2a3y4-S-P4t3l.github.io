@@ -6,7 +6,7 @@ permalink: /blog-post-lesson-7-akshay-patel/
 source-id: 1F6Y-Hf7bDk_2WI4EjYUiv2iJUMshJLCtjhIJLPLF030
 published: true
 ---
-</table>
+<table>
   <tr>
     <td>Title:</td>
     <td>My seventh time publishing using GitHub  </td>
