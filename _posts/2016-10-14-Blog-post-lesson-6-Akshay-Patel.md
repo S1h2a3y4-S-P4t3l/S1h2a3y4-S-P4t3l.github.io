@@ -1,5 +1,5 @@
 ---
-title: Blog post lesson 6 Akshay Patel
+title: More coding on Google sheets - Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-6-akshay-patel/
