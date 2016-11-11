@@ -7,7 +7,6 @@ source-id: 1F6Y-Hf7bDk_2WI4EjYUiv2iJUMshJLCtjhIJLPLF030
 published: true
 ---
 </table>
-</a>
   <tr>
     <td>Title:</td>
     <td>My seventh time publishing using GitHub  </td>
