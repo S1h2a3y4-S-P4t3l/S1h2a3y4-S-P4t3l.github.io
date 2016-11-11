@@ -1,5 +1,5 @@
 ---
-title: Blog Post lesson 7 Akshay Patel
+title: Finishing the spreadsheet project - Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-7-akshay-patel/
