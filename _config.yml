@@ -11,6 +11,17 @@ description: Blogger from Dr Challoners Grammar School
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://image.freepik.com/free-icon/call-center-worker-with-headset_318-61764.png
 
+<nav>
+              <div class="dropdown">
+                <button class="dropbtn"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/VisualEditor_-_Icon_-_Menu.svg/2000px-VisualEditor_-_Icon_-_Menu.svg.png" height="105px"> </button>
+                  <div class="dropdown-content">
+                    <li class="nav-bar-top"><a href="/s1h2a3y4-s-p4t3l.github.io/" class="nav-link-1">Home<!--: Read my Blog--></a></li>
+                    <li class="nav-bar-top"><a href="/s1h2a3y4-s-p4t3l.github.io/about" class="nav-link-1">About<!--: Find out about me--></a></li>
+                    <li class="nav-bar-top"><a class="nav-link-3">Posts:</a></li>
+                  </div>
+              </div>
+          </nav>
+
 #
 # Flags below are optional
 #
