@@ -1,5 +1,5 @@
 ---
-title: Exploring how to make the website look better - Akshay Patel
+title: Week 2 Exploring how to make the website look better - Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-2-akshay-patel/
