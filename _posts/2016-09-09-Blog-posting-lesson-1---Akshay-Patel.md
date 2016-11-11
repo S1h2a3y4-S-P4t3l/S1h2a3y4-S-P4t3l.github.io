@@ -1,5 +1,5 @@
 ---
-title: Blog posting lesson 1 - Akshay Patel
+title: Week 1 Creating the website - Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-posting-lesson-1---akshay-patel/
