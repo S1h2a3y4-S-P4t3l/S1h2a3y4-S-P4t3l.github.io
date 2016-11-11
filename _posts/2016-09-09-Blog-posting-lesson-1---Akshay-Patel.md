@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td>My first attempts at publishing using GitHub  </td>
+    <td>My first attempt at publishing using GitHub  </td>
   </tr>
   <tr>
     <td>Date:</td>
@@ -26,7 +26,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I think so, as I followed all the instructions and seem to have done everything in the correct order.</td>
+    <td>I did, as I followed all the instructions and seem to have done everything in the correct order.</td>
   </tr>
 </table>
 
