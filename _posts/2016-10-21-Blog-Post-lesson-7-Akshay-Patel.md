@@ -6,7 +6,9 @@ permalink: /blog-post-lesson-7-akshay-patel/
 source-id: 1F6Y-Hf7bDk_2WI4EjYUiv2iJUMshJLCtjhIJLPLF030
 published: true
 ---
-
+<a href="/blog-post-lesson-7-akshay-patel/">
+ <img src="http://cdn.grid.fotosearch.com/CSP/CSP757/k7574695.jpg" class="text-on-top">
+</a>
   <tr>
     <td>Title:</td>
     <td>My seventh time publishing using GitHub  </td>
