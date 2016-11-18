@@ -1,5 +1,5 @@
 ---
-title: Finishing the spreadsheet project - Akshay Patel
+title: Week 7 Finishing the spreadsheet project - Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-7-akshay-patel/
