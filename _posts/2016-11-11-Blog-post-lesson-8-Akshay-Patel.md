@@ -1,5 +1,5 @@
 ---
-title: Listening on how to improve my work and handing my work in - Akshay Patel
+title: Week 8 Listening on how to improve my work and handing my work in - Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-8-akshay-patel/
