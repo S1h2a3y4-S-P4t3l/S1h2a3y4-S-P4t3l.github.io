@@ -1,5 +1,5 @@
 ---
-title: Blog post lesson 9 Akshay Patel
+title: Week 9 Making my website more appealing Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-9-akshay-patel/
