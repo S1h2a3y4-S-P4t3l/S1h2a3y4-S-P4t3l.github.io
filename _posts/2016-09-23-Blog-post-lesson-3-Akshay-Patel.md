@@ -1,5 +1,5 @@
 ---
-title: Refining my website - Akshay Patel
+title: Week 3 Refining my website Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-3-akshay-patel/
