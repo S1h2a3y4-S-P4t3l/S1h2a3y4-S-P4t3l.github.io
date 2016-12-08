@@ -35,7 +35,7 @@ published: true
   <tr>
     <td>Lesson Review</td>
   </tr>
-  <tr>
+  <tr> 
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
