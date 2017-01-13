@@ -1,5 +1,5 @@
 ---
-title: Blog post lesson 11 Akshay patel
+title: Learning Hex
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-11-akshay-patel/
