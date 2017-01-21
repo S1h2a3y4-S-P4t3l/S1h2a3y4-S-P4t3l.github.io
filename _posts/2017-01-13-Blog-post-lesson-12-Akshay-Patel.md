@@ -1,5 +1,5 @@
 ---
-title:Lesson 12 Converting from binary to hex to decimal
+title: Converting from binary to hex to decimal
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-12-akshay-patel/
