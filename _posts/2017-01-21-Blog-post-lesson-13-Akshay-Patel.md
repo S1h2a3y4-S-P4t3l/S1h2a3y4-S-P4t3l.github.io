@@ -1,5 +1,5 @@
 ---
-title: Blog post lesson 13 Akshay Patel
+title Lesson 13 How to convert from binary to letters and learning about lighting
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-13-akshay-patel/
