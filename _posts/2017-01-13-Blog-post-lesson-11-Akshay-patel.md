@@ -1,5 +1,5 @@
 ---
-title:Lesson 11 Learning Hex
+title: Learning Hex
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-11-akshay-patel/
