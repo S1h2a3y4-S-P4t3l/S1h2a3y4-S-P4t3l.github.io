@@ -13,7 +13,7 @@ published: true
   </tr>
   <tr>
     <td>Date:</td>
-    <td>06/09/16</td>
+    <td>16/09/16</td>
   </tr>
   <tr>
     <td>Starting point:</td>
