@@ -17,7 +17,7 @@ published: true
   </tr>
   <tr>
     <td>Starting point:</td>
-    <td>I had no knowledge</td>
+    <td>I had been doing github for a few weeks now</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
