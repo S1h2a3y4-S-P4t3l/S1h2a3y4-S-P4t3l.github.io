@@ -1,5 +1,5 @@
 ---
-title: Week 10 Listening To Presentations On The Similarities Of Ciphers In Class Akshay Patel
+title: Week 10 Listening To Presentations On The Similarities Of Ciphers In Class - Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-10-akshay-patel/
