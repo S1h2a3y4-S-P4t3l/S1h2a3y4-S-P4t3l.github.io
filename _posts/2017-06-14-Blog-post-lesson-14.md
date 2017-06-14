@@ -1,5 +1,5 @@
 ---
-title: Blog post lesson 14
+title: Akshay Patel Blog post lesson 14
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-14/
