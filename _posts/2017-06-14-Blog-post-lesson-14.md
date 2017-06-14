@@ -1,5 +1,5 @@
 ---
-title: Akshay Patel Blog post lesson 14
+title: Lesson 14 Practice makes perfect - Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-14/
