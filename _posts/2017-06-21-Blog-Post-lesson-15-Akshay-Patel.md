@@ -1,5 +1,5 @@
 ---
-title: Blog Post lesson 15 Akshay Patel
+title: Lesson 15 Showing my teacher what I achieved - Akshay Patel
 layout: post
 author: akshay.patel
 permalink: /blog-post-lesson-15-akshay-patel/
